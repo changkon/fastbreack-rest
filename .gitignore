@@ -1,2 +1,4 @@
 .DS_Store
 .idea/*
+/fastbreack-rest.iml
+target/*
